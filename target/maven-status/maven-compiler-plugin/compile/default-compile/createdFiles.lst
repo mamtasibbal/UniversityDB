@@ -1,9 +1,0 @@
-edu/stanford/services/EmployeeDemo.class
-edu/stanford/App.class
-edu/stanford/entities/Professor.class
-edu/stanford/entities/Admin.class
-edu/stanford/entities/Employee.class
-edu/stanford/entities/Department.class
-edu/stanford/entities/Student.class
-edu/stanford/database/DBAccess.class
-edu/stanford/entities/Course.class
