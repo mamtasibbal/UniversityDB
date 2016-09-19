@@ -1,0 +1,9 @@
+2016-09-18 19:04:28 INFO  Log4jDemo:17 - This is info message
+2016-09-18 19:04:28 WARN  Log4jDemo:18 - This is a warning message
+2016-09-18 19:04:28 ERROR Log4jDemo:19 - This is an error message
+2016-09-18 19:04:55 INFO  Log4jDemo:17 - This is info message
+2016-09-18 19:04:55 WARN  Log4jDemo:18 - This is a warning message
+2016-09-18 19:04:55 ERROR Log4jDemo:19 - This is an error message
+2016-09-18 19:05:00 INFO  Log4jDemo:17 - This is info message
+2016-09-18 19:05:00 WARN  Log4jDemo:18 - This is a warning message
+2016-09-18 19:05:00 ERROR Log4jDemo:19 - This is an error message
