@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Created by mamtasibbal on 8/23/16.
  */
-public class DBAccess {
+public class DummyDBAccess {
 
     static List<Department> departments;
     static List<Course> courses;
